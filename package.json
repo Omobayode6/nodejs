@@ -1,0 +1,14 @@
+{
+  "name": "check_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node"
+  },
+  "author": "Omobayode",
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^4.2.2"
+  }
+}
